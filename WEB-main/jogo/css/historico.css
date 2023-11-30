@@ -1,0 +1,29 @@
+body {
+    background-image: url('../assets/historico.gif'); 
+    font-family: 'Luminary, fantasy';
+    background-size: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+}
+
+h2 {
+    position: fixed;
+    font-family: 'Luminary, fantasy';
+    color: white;
+    font-size: 10vh;
+    top: 2vh;
+    left: 25vw;
+    width: 50vw;
+    text-align: center; 
+    margin: 20px auto; 
+}
+
+.fixed-width-table {
+    position: fixed;
+    top: 20vh;
+    left: 25vw;
+    width: 50vw; 
+    margin: auto;
+}

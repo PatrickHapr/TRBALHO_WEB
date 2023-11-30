@@ -1,0 +1,22 @@
+body {
+    font-family: 'Luminary, fantasy';
+    font-size: normal;
+    background-image: url('../assets/ok.png');
+    background-size: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+
+  #bt{
+    position: absolute;
+    top: 85vh;
+    left: 132.3vh;
+}

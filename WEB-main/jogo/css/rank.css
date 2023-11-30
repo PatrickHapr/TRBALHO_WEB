@@ -1,0 +1,30 @@
+body {
+    background-image: url('../assets/ok.png'); 
+    background-size: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Luminary, fantasy';
+    font-size: normal;
+    height: 100vh;
+    display: flex;
+}
+
+h2 {
+    position: fixed;
+    color: white;
+    font-size: 10vh;
+    top: 2vh;
+    left: 25vw;
+    width: 50vw;
+    text-align: center; 
+    margin: 20px auto; 
+}
+
+.fixed-width-table {
+    position: fixed;
+    top: 20vh;
+    left: 25vw;
+    width: 50vw; 
+    margin: auto;
+}
+

@@ -1,0 +1,27 @@
+body {
+    font-family: 'Luminary, fantasy';
+    font-size: normal;
+    font-color: white;
+    background-image: url('../assets/fundo2.gif');
+    background-size: 100%; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    color: red;
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
